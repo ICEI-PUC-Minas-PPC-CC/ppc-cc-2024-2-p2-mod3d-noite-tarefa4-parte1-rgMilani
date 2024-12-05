@@ -1,21 +1,6 @@
-# TÍTULO DO PROJETO
+# JOGO MATA-MATA
 
-`PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
-
-## Integrantes
-
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
-
-## Professor
-
-- Mestre Yoda
-
-# Documentação
+https://zap.struckd.com/games/mata-mata-1412
 
 <ol>
 <li><a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
